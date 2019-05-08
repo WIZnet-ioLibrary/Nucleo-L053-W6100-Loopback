@@ -5,6 +5,7 @@ Nucleo-L053 + W6100 loopback example with **Keil MDK-ARM V5 IDE**
 2. Open project "/MDK/STML0-Loopback/MDK-ARM/test_L053.uvprojx"
 
 # For more detail information, 
-This project is from https://github.com/WIZnet-ioLibrary/W6100EVB-Loopback/
+https://github.com/WIZnet-ioLibrary/W6100EVB-Loopback/ is main reference for this.
+
 Please see the https://github.com/WIZnet-ioLibrary/W6100EVB-Loopback/blob/master/README.md
 
